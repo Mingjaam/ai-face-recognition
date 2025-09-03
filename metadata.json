@@ -1,0 +1,5 @@
+{
+  "name": "AI Face Recognition",
+  "description": "An application to register faces by uploading images and a name, then recognize them in other uploaded images using AI.",
+  "requestFramePermissions": []
+}
